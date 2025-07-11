@@ -17,3 +17,8 @@
 	path = appits/its_stock
 	url = git@github.com:appits/its_stock.git
 	branch = 17.0
+
+[submodule "appits/its_mrp"]
+	path = appits/its_mrp
+	url = git@github.com:appits/its_mrp.git
+	branch = 17.0
