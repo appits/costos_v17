@@ -16,7 +16,7 @@
 [submodule "appits/its_stock"]
 	path = appits/its_stock
 	url = git@github.com:appits/its_stock.git
-	branch = OCA-a-revisar-17
+	branch = 17.0
 
 [submodule "appits/its_mrp"]
 	path = appits/its_mrp
