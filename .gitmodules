@@ -25,3 +25,8 @@
 [submodule "its_addons_inspector"]
 	path = its_addons_inspector
 	url = git@github.com:appits/its_addons_inspector.git
+
+[submodule "appits/its_addons_inspector"]
+	path = appits/its_addons_inspector
+	url = git@github.com:appits/its_addons_inspector.git
+	branch = main
