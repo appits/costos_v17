@@ -22,3 +22,8 @@
 	path = appits/its_mrp
 	url = git@github.com:appits/its_mrp.git
 	branch = 17.0
+
+[submodule "its_addons_inspector"]
+	path = its_addons_inspector
+	url = git@github.com:appits/its_addons_inspector.git
+	branch = main
