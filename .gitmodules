@@ -11,7 +11,7 @@
 [submodule "appits/costos"]
 	path = appits/costos
 	url = git@github.com:appits/costos-fabricacion.git
-	branch = 17.0
+	branch = 17.0_qa
 
 [submodule "appits/its_stock"]
 	path = appits/its_stock
@@ -21,7 +21,7 @@
 [submodule "appits/its_mrp"]
 	path = appits/its_mrp
 	url = git@github.com:appits/its_mrp.git
-	branch = 17.0
+	branch = 17.0_qa
 
 [submodule "appits/its_addons_inspector"]
 	path = its_addons_inspector
