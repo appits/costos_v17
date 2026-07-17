@@ -27,3 +27,8 @@
 	path = its_addons_inspector
 	url = git@github.com:appits/its_addons_inspector.git
 	branch = main
+
+[submodule "appits/localizacionNominaV15"]
+	path = appits/localizacionNominaV15
+	url = git@github.com:appits/localizacionNominaV15.git
+	branch = 17.0
